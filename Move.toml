@@ -1,0 +1,15 @@
+[package]
+name = "Healthcare_service_tokenization"
+version = "1.0.0"
+authors = []
+
+[addresses]
+HealthcareServiceTokenization = '0xd90cb9f421931b4b9109fdaddcdf170514a0bcd4d1c0995e2bf496e51a4c092c'
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "mainnet"
+subdir = "aptos-move/framework/aptos-framework"
+
+[dev-dependencies]
