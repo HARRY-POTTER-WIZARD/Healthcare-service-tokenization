@@ -1,6 +1,3 @@
-Here is a sample **README** file for the given **Crowdfunding** smart contract on the **Aptos blockchain**.
-
----
 
 # **Crowdfunding Smart Contract**
 
